@@ -617,7 +617,6 @@ class Passport
         return new static::$refreshTokenModel;
     }
 
-
     /**
      * Configure Passport to not register its migrations.
      *
